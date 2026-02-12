@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DizitalAdda | Learn AI Marketing. Earn Fast.</title>
+  <meta name="description" content="DizitalAdda is India’s AI-first digital marketing institute focused on fast earning, real projects, and 2026-ready skills." />
+
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b0f19;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1200px;
+      width: 90%;
+      margin: auto;
+      padding: 60px 0;
+    }
+    h1, h2, h3 { line-height: 1.2; }
+    h1 { font-size: 44px; }
+    h2 { font-size: 34px; margin-bottom: 20px; }
+    h3 { font-size: 24px; }
+    p { font-size: 18px; color: #d1d5db; }
+    ul { padding-left: 20px; }
+    li { margin-bottom: 10px; }
+
+    .highlight { color: #00e5ff; font-weight: bold; }
+
+    .btn {
+      display: inline-block;
+      background: #00e5ff;
+      color: #000;
+      padding: 16px 34px;
+      font-size: 18px;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 25px;
+    }
+    .btn:hover { background: #00bcd4; }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(135deg, #020617, #0b0f19);
+      text-align: center;
+      padding: 100px 0;
+    }
+    .badge {
+      display: inline-block;
+      background: #ff1744;
+      padding: 10px 18px;
+      border-radius: 4px;
+      font-weight: bold;
+      margin-bottom: 25px;
+    }
+
+    /* SECTIONS */
+    .section { padding: 70px 0; }
+    .dark { background: #020617; }
+
+    /* TABLE */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 30px;
+    }
+    th, td {
+      border: 1px solid #1f2933;
+      padding: 16px;
+      text-align: left;
+    }
+    th { background: #0b0f19; }
+
+    /* PATHS */
+    .paths {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+    .card {
+      background: #0b0f19;
+      border: 2px solid #00e5ff;
+      border-radius: 10px;
+      padding: 30px;
+    }
+    .card h3 { color: #00e5ff; }
+
+    /* URGENCY */
+    .urgency {
+      background: #ff1744;
+      text-align: center;
+      padding: 45px 20px;
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    footer {
+      background: #020617;
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    @media(max-width:768px){
+      h1{font-size:34px}
+      h2{font-size:28px}
+    }
+  </style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="container">
+    <div class="badge">AI IS CHANGING EVERYTHING</div>
+    <h1>
+      AI Is Replacing <span class="highlight">Manual Digital Marketers</span>.<br>
+      Are You Still Learning Old Theory?
+    </h1>
+    <p>
+      Certificates don’t pay rent.<br>
+      <strong>Skills that earn money do.</strong>
+    </p>
+    <a href="#choose-path" class="btn">I Want To Earn Fast</a>
+  </div>
+</section>
+
+<!-- PROBLEM -->
+<section class="section">
+  <div class="container">
+    <h2>The Brutal Truth</h2>
+    <p>
+      Most digital marketing institutes in India are still teaching
+      <span class="highlight">2023 theory, outdated SEO tricks, and fake projects.</span>
+    </p>
+    <p>
+      Meanwhile, companies and clients are hiring people who know
+      <strong>AI tools, automation, and real execution.</strong>
+    </p>
+    <p class="highlight">
+      DizitalAdda is built for only one goal: help you earn money fast.
+    </p>
+  </div>
+</section>
+
+<!-- COMPARISON -->
+<section class="section dark">
+  <div class="container">
+    <h2>Old Digital Marketing vs DizitalAdda</h2>
+    <table>
+      <tr>
+        <th>Old Institutes</th>
+        <th>DizitalAdda (AI-First)</th>
+      </tr>
+      <tr>
+        <td>Outdated SEO & theory classes</td>
+        <td>2026 AI-first marketing systems</td>
+      </tr>
+      <tr>
+        <td>Dummy projects</td>
+        <td>Live traffic & real websites</td>
+      </tr>
+      <tr>
+        <td>Only certificates</td>
+        <td>Job + Freelance + Business skills</td>
+      </tr>
+      <tr>
+        <td>No earning clarity</td>
+        <td>Clear monthly income roadmap</td>
+      </tr>
+    </table>
+  </div>
+</section>
+
+<!-- LIVE PROJECTS -->
+<section class="section">
+  <div class="container">
+    <h2>Work on REAL Websites</h2>
+    <p>No fake screenshots. No dummy blogs.</p>
+    <p>You work directly on:</p>
+    <ul>
+      <li><strong>dizitaladda.com</strong> – real brand, real leads</li>
+      <li><strong>nihacs.com</strong> – SEO, content & monetization projects</li>
+    </ul>
+    <p class="highlight">This is experience clients and companies respect.</p>
+  </div>
+</section>
+
+<!-- CHOOSE YOUR PATH -->
+<section id="choose-path" class="section dark">
+  <div class="container">
+    <h2>CHOOSE YOUR PATH</h2>
+
+    <div class="paths">
+      <!-- OPTION 1 -->
+      <div class="card">
+        <h3>4-Month Fast-Track<br>(Freelancer Mode)</h3>
+        <p><strong>Who is it for?</strong><br>Students & job seekers who need money ASAP.</p>
+        <p><strong>Focus:</strong></p>
+        <ul>
+          <li>AI Content Creation (ChatGPT, Midjourney)</li>
+          <li>Local SEO & Google Rankings</li>
+          <li>Basic Ads for leads</li>
+          <li>Upwork & Fiverr freelancing system</li>
+        </ul>
+        <p class="highlight">Outcome:</p>
+        <p>Start earning ₹15,000 – ₹25,000/month within 90 days.</p>
+      </div>
+
+      <!-- OPTION 2 -->
+      <div class="card">
+        <h3>1-Year Growth Diploma<br>(Agency & Business Mode)</h3>
+        <p><strong>Who is it for?</strong><br>Future agency owners & high-income seekers.</p>
+        <p><strong>Focus:</strong></p>
+        <ul>
+          <li>Advanced & Technical SEO</li>
+          <li>Programmatic SEO systems</li>
+          <li>Marketing Automation (Zapier)</li>
+          <li>Paid Ads Mastery & Agency operations</li>
+        </ul>
+        <p class="highlight">Outcome:</p>
+        <p>Build a business or get ₹50k+ salary roles.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- URGENCY -->
+<section class="urgency">
+  ⚠ Limited Seats Only. We Train Earners, Not Time-Pass Students.
+</section>
+
+<!-- CTA -->
+<section class="section">
+  <div class="container" style="text-align:center;">
+    <h2>Stop Overthinking. Start Earning.</h2>
+    <p>AI skills pay bills. Confusion doesn’t.</p>
+    <a href="#" class="btn">Apply for DizitalAdda Now</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  Build Skill. Earn Money. Control Your Future.
+</footer>
+
+</body>
+</html>
